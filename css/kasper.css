@@ -161,7 +161,7 @@ header .container .logo::after {
     position: absolute;
     top: 50%;
     left: -20%;
-    transform: translate(70%, -50%);
+    transform: translate(90%, -50%);
     font-family: cursive;
     font-size: 30px;
 }
@@ -1241,7 +1241,7 @@ header nav .toggle-menu {
     position: absolute;
     top: 50%;
     left: -20%;
-    transform: translate(85%, -50%);
+    transform: translate(90%, -50%);
     font-family: cursive;
     font-size: 25px;
 }
